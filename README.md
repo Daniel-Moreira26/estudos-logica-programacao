@@ -1,7 +1,3 @@
-# estudos-logica-programacao
-Repositório criado para armazenar meus exercícios de lógica de programação desenvolvidos no curso da Cida Castello utilizando o VisuAlg.
-
-
 # 🧠 Estudos de Lógica de Programação
 
 Este repositório foi criado para armazenar meus exercícios e desafios práticos de lógica de programação. Atualmente, estou focado em construir uma base sólida antes de avançar para o desenvolvimento Back-End com Java.
