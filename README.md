@@ -7,7 +7,7 @@ Este repositório foi criado para armazenar meus exercícios e desafios prático
 - **Markdown** (Para organização das notas de estudo)
 
 ## 🎯 Conteúdos Praticados
-- [x] [Variáveis e Tipos de Primitivos] (./variaveis-tipos.primitivos.md)
+- [x] [Variáveis e Tipos de Primitivos](./resumos/variaveis-tipos.primitivos.md)
 - [ ] Estruturas Condicionais (`SE / ENTAO / SENAO`)
 - [ ] Estruturas de Repetição (`ENQUANTO`, `PARA`)
 - [ ] Vetores e Matrizes
