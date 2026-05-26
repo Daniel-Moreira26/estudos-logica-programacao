@@ -7,7 +7,7 @@ Este repositório foi criado para armazenar meus exercícios e desafios prático
 - **Markdown** (Para organização das notas de estudo)
 
 ## 🎯 Conteúdos Praticados
-- [x] Variáveis e Tipos de Dados
+- [x] [Variáveis e Tipos de Dados](./resumos/variaveis.md)
 - [ ] Estruturas Condicionais (`SE / ENTAO / SENAO`)
 - [ ] Estruturas de Repetição (`ENQUANTO`, `PARA`)
 - [ ] Vetores e Matrizes
