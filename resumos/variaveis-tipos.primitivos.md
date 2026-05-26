@@ -1,4 +1,4 @@
-# 🧠 Resumo: Variáveis e Tipos de Dados
+# 🧠 Resumo: Variáveis e Tipos de Primitivos
 
 Na lógica de programação, uma **variável** é como uma gaveta ou uma caixa na memória do computador onde guardamos uma informação que vamos precisar usar mais tarde no nosso programa.
 
