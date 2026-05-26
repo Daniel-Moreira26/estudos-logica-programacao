@@ -8,6 +8,6 @@ Este repositório foi criado para armazenar meus exercícios e desafios prático
 
 ## 🎯 Conteúdos Praticados
 - [x] [Variáveis e Tipos de Primitivos](./resumos/variaveis-tipos.primitivos.md)
-- [x] [Estruturas Condicionais](./resumos/estrutura-controle.md)(`SE / ENTAO / SENAO`)
-- [ ] Estruturas de Repetição (`ENQUANTO`, `PARA`)
+- [x] [Estruturas Condicionais](./resumos/estrutura-controle.md) (`SE / ENTAO / SENAO`)
+- [x] [Estruturas de Repetição](./resumos/estrutura-repeticao.md) (`ENQUANTO`, `PARA`)
 - [ ] Vetores e Matrizes
