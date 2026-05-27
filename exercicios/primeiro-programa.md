@@ -1,3 +1,5 @@
+``pascal
+
 algoritmo "primeiro"
 
 var
