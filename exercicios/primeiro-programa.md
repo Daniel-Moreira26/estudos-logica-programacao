@@ -1,4 +1,4 @@
-``pascal
+```Pascal
 
 algoritmo "primeiro"
 
