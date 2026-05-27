@@ -5,6 +5,6 @@ var
 
 inicio
   A <- "Olá, Mundo!"
-  escreva(nome)
+  escreva(A)
 
 fimalgoritmo
