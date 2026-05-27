@@ -1,4 +1,4 @@
-🔁 Estruturas de Repetição (Loops / Laços)
+# 🧠 Resumo: Estrutura de Repetição (Loops / Laços)
 
 Servem para executar o mesmo bloco de código várias vezes, evitando que você tenha que digitar a mesma linha repetidamente.
 
