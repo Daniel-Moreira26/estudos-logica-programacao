@@ -1,8 +1,10 @@
 algoritmo "primeiro"
+
 var
+   A: caractere
 
 inicio
-
-escreva ("Olá, Mundo!")
+  A <- "Olá, Mundo!"
+  escreva(nome)
 
 fimalgoritmo
