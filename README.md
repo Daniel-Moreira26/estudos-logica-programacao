@@ -7,6 +7,7 @@ Este repositório foi criado para armazenar meus exercícios e desafios prático
 - **Markdown** (Para organização das notas de estudo)
 
 ## 🎯 Conteúdos Praticados
+- [x] [Algoritmos](./resumos/Algoritmos)
 - [x] [Variáveis e Tipos de Primitivos](./resumos/variaveis-tipos.primitivos.md)
 - [x] [Estruturas Condicionais](./resumos/estrutura-controle.md) (`SE / ENTAO / SENAO`)
 - [x] [Estruturas de Repetição](./resumos/estrutura-repeticao.md) (`ENQUANTO`, `PARA`)
